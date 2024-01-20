@@ -1,5 +1,5 @@
 # {{cookiecutter.project_name}}
-Project created by {author}.
+Project created by {{cookiecutter.author}}.
 
 ## Requirements
 (Reccomended) Install [pyenv](https://github.com/pyenv/pyenv) to manage Python versions:
