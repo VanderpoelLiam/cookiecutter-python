@@ -62,7 +62,7 @@ Example usage:
 ❯ pyenv local {{cookiecutter.package_name}} 
 
 # Setup Poetry
-❯ poetry init --dev-dependency pre-commit --dev-dependency pytest
+❯ poetry init --dev-dependency pre-commit --dev-dependency pytest --python 3.10.12
 ... follow the instructions ...
 
 # Add sample project dependencies
