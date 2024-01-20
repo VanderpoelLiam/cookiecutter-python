@@ -55,7 +55,12 @@ poetry run pre-commit install
 ```
 
 ## Usage
-TODO: Add usage instructions here
+To run a script:
+```
+poetry run python your_script.py
+```
 
-## Testing
-TODO: Add testing instructions here
+Similarly for commandline tools, notably testing with pytest, you can run:
+```
+poetry run pytest
+```
